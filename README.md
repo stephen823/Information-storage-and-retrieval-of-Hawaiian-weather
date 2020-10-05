@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Information storage and retrieval of Hawaiian weather
 
 ## Project Intro/Objective
 This project's purposes include retrieving Hawaii's temperature and precipitation data utilizing SQLAlchemy and storing them in a Flask powered JSON dataset. Furthermore, I made use of Matplotlib to analyze Hawaii weather patterns via data visualization.
